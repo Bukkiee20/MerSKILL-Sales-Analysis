@@ -11,6 +11,12 @@ Sales Data: The primary dataset used for this analysis is the "Sales Data.csv" f
 - MySQL Workbench - Data Analysis
 - Microsoft PowerBI - Creating Reports/Dashboard
 
+### Data Cleaning/Preparation
+In the initial data preparation phase, the following tasks were performed:
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting.
+
 ### Dashboard
 ![MeriSKILLS Project-1](https://github.com/Bukkiee20/MerSKILL-Sales-Analysis/assets/99342341/20190bf4-8205-41b4-8ead-8ad606a1d57b)
 
