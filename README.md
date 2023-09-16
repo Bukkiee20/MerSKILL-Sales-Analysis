@@ -31,6 +31,17 @@ The analysis results are summarized as follows:
 3. Quarter 1 stood out with the lowest recorded sales at $6.8M, while Quarter 4 marked the pinnacle with $11.5M in sales. It's worth noting that the final three months of the year (October, Novemberand December) with December being the highest with $4.6M in sales saw a significant upswing in revenue. Tuesday, in particular, emerged as the top-performing day with $5.09M in sales surpassing allother days of the week.
 4. The business consistently encounters its peak periods between the hours of 11am-1pm and then recurring from 6pm-8pm. During these specific time frames, we consistently observe a significant surge in order placements signifying the prime hours of customer activity.
 
+### Recommendations
+1. **Leverage Macbook Pro's Success:** Given the Macbook Pro Laptop's exceptional sales and high average order value, consider introducing complementary products or accessories that can be bundled
+with Macbook Pro Laptop purchases to further boost sales and increase revenue.
+2. **Promotion for ThinkPad Laptop:** The ThinkPad Laptop is performing well as it ranks second based on average order value, but there's room for growth. Implement targeted marketing campaigns or
+promotions to capitalize on its popularity and potentially surpass iPhone sales.
+3. Build on the success of Tuesdays as the highest revenue day. Run targeted promotions or campaigns on Tuesdays to maintain or increase sales on this day.
+4. **Optimize Operating Hours:** Given the observed peak order hours from 11am to 1pm and 6pm to 8pm, ensure that the business is adequately staffed and prepared during these periods to provide
+the best customer experience. In addition, consider offering promotions or special deals during these peak hours to further encourage customer activity and spending.
+5. **AAA Batteries Optimization:** Despite being the lowest in sales revenue, AAA Batteries (4-pack) is highly ordered. Consider bundling these batteries with other products or offering special deals to
+increase their sales value.
+
 
 ### Dashboard
 ![MeriSKILLS Project-1](https://github.com/Bukkiee20/MerSKILL-Sales-Analysis/assets/99342341/20190bf4-8205-41b4-8ead-8ad606a1d57b)
