@@ -6,7 +6,7 @@
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#data-cleaning/preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Results/Findings](#results/findings)
+- [Results/Findings](#results-findings)
 - [Recommendations](#recommendations)
 - [Dashboard](#dashboard)
   
