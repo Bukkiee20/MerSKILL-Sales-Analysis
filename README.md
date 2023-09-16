@@ -24,6 +24,14 @@ EDA involved exploring the sales data to answer key questions such as:
 - What are the peak sales period?
 - In which cities do we observe the highest sales figures for our products?
 
+### Results/Findings
+The analysis results are summarized as follows:
+1. The Macbook Pro Laptop takes the lead as our best-selling product with a total sales figure of $8.0M. This dominance is clearly reflected in the Average Order Value chart, where it claims the top spot,indicating that customers tend to make larger single purchases of this product. Following closely behind is the iPhone, with sales totaling $4.8M, and the ThinkPad Laptop at $4.1 million. In contrast,AAA Batteries (4-pack) ranks as our lowest-selling product
+2. Despite AAA Batteries (4-pack) having the lowest sales, it was the most ordered product, with an impressive quantity of 31,000 units sold. Additionally, in terms of city-wise sales, San Franciscostands out as the leader with sales of $8.26M, followed by Los Angeles with $5.45M and New York City with $4.66M in sales. On the other hand, Austin recorded the lowest sales, totaling $1.82M.
+3. Quarter 1 stood out with the lowest recorded sales at $6.8M, while Quarter 4 marked the pinnacle with $11.5M in sales. It's worth noting that the final three months of the year (October, Novemberand December) with December being the highest with $4.6M in sales saw a significant upswing in revenue. Tuesday, in particular, emerged as the top-performing day with $5.09M in sales surpassing allother days of the week.
+4. The business consistently encounters its peak periods between the hours of 11am-1pm and then recurring from 6pm-8pm. During these specific time frames, we consistently observe a significant surge in order placements signifying the prime hours of customer activity.
+
+
 ### Dashboard
 ![MeriSKILLS Project-1](https://github.com/Bukkiee20/MerSKILL-Sales-Analysis/assets/99342341/20190bf4-8205-41b4-8ead-8ad606a1d57b)
 
