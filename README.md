@@ -10,3 +10,6 @@ Sales Data: The primary dataset used for this analysis is the "Sales Data.csv" f
 - Microsoft Excel - Data Cleaning
 - MySQL Workbench - Data Analysis
 - Microsoft PowerBI - Creating Reports/Dashboard
+
+
+[MeriSKILLS Project-1.pdf](https://github.com/Bukkiee20/MerSKILL-Sales-Analysis/files/12641699/MeriSKILLS.Project-1.pdf)
